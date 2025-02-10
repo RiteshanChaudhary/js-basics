@@ -1,4 +1,4 @@
-// Javascript arrays
+// Javascript arrays one
 // const numbers = [1,2,3,4]
 
 const persons = ["Shyam", "Hari", "Ram", "Sita"];
