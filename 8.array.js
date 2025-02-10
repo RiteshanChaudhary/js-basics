@@ -1,7 +1,7 @@
 // Javascript arrays
 // const numbers = [1,2,3,4]
 
-// const persons = ["Shyam", "Hari", "Ram", "Sita"];
+const persons = ["Shyam", "Hari", "Ram", "Sita"];
 
 // console.log(persons);
 // console.log(persons.length);
