@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Javascript arrays two
+=======
+// Javascript arrays one
+>>>>>>> 4a753fa0b656388595466d415d91daed3b9c9485
 // const numbers = [1,2,3,4]
 
 const persons = ["Shyam", "Hari", "Ram", "Sita"];
